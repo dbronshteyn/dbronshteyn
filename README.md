@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbronshteyn
-- 🌱 I’m currently learning Java, Basic Data Structures, Object-Oriented Design
+- 🌱 I’m a Computer Science Major currently learning Java, Basic Data Structures, Object-Oriented Design @ University of California: San Diego
 
 <!---
 dbronshteyn/dbronshteyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
