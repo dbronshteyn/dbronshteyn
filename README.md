@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbronshteyn
-- 🌱 I’m a college junior pursuing B.S. Computer Science at University of California, San Diego
+- 🌱 I am pursuing B.S. Computer Science at University of California, San Diego
 
 - My interests include Software Engineering and Machine Learning
 
