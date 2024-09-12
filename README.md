@@ -8,7 +8,7 @@ Email: daniel.bronshteyn81@gmail.com | [LinkedIn](https://www.linkedin.com/in/da
 
 Hello! I'm Daniel Bronshteyn, a Computer Science student at UC San Diego. I have a strong interest in software engineering and backend development, with hands-on experience in Java, Python, and C++, and a passion to always learn! I enjoy tackling challenging projects that allow me to leverage both technical knowledge and creativity.
 
-My hobbies include playing ice hockey 🏒, playing piano 🎹, hiking 🥾, and cooking 🧑‍🍳.
+My hobbies include playing ice hockey, playing piano, hiking, and cooking.
 
 ## 🛠️ Skills 
 
