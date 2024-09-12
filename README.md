@@ -1,14 +1,14 @@
 
-# Hi there 👋 
+# 👋 Hi there!  
 
 **B.S. Computer Science, Jacobs School of Engineering, UC San Diego**  
-[Email](daniel.bronshteyn81@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-bronshteyn-78862212a/)
+Email: daniel.bronshteyn81@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniel-bronshteyn-78862212a/)
 
-## About Me
+## 👨‍💻 About Me 
 
 Hello! I'm Daniel Bronshteyn, a Computer Science student at UC San Diego. I have a strong interest in software engineering and backend development, with hands-on experience in Java, Python, and C++, and a passion to always learn! I enjoy tackling challenging projects that allow me to leverage both technical knowledge and creativity.
 
-## Skills
+## 🛠️ Skills 
 
 - **Languages**: Java, Python, C++, C, SQL, MATLAB, Bash, x86 Assembly, SystemVerilog
 - **Frameworks**: Spring, JUnit, Maven
@@ -16,7 +16,7 @@ Hello! I'm Daniel Bronshteyn, a Computer Science student at UC San Diego. I have
 - **Technologies**: REST APIs, Postman, CI/CD, Docker, NoSQL
 - **Libraries**: NumPy, pandas, TensorFlow, Keras, scikit-learn
 
-## Projects
+## 🚀 Projects 
 
 ### PantryPal (January 2024)
 A JavaFX application that helps users create custom recipes based on available ingredients using OpenAI APIs. It integrates:
@@ -25,7 +25,7 @@ A JavaFX application that helps users create custom recipes based on available i
 - **DALL-E** to create unique images for each recipe  
 [Check out the project here!](https://github.com/dbronshteyn/PantryPal)
 
-## Experience
+## 💼 Experience 
 
 - **UCSD Computer Science Tutor** (Aug 2024 - Sep 2024)  
   Helped students master modern CPU features, including caching and multi-threading, with a focus on software performance optimization in C++.
@@ -36,7 +36,7 @@ A JavaFX application that helps users create custom recipes based on available i
 - **Java and Python Tutor, Tutor.com** (Nov 2022 - Present)  
   Support students in understanding key Java and Python concepts.
 
-## Certifications
+## 🎓 Certifications
 
 - **Deep Learning Specialization**, DeepLearning.AI (Sep 2023)
 
