@@ -6,7 +6,7 @@ daniel.bronshteyn81@gmail.com | 858-766-8109 | [LinkedIn](https://www.linkedin.c
 
 ## About Me
 
-Hello! I'm Daniel Bronshteyn, a Computer Science student at UC San Diego. I have a strong foundation in software engineering and backend development, with hands-on experience in Java, Python, and C++. I enjoy tackling challenging projects that allow me to leverage both technical knowledge and creativity.
+Hello! I'm Daniel Bronshteyn, a Computer Science student at UC San Diego. I have a strong interest in software engineering and backend development, with hands-on experience in Java, Python, and C++, and a passion to always learn! I enjoy tackling challenging projects that allow me to leverage both technical knowledge and creativity.
 
 ## Skills
 
@@ -14,6 +14,7 @@ Hello! I'm Daniel Bronshteyn, a Computer Science student at UC San Diego. I have
 - **Frameworks**: Spring, JUnit, Maven
 - **Tools**: Git, SSH, GNU Debugger, Jupyter Notebooks, Makefile, Vim, LaTeX
 - **Technologies**: REST APIs, Postman, CI/CD, Docker, NoSQL
+- **Libraries**: NumPy, pandas, TensorFlow, Keras, scikit-learn
 
 ## Projects
 
