@@ -23,13 +23,15 @@ My hobbies include playing ice hockey, playing piano, hiking, and cooking.
 The Wordsworth API allows users to create, manage, and review flashcard sets, and supports CRUD operations on individual flashcards. I am currently working on the frontend using React, and Wordsworth will soon be a full-stack application. The backend is built using:
 - **Spring Boot** for building Java-based web applications
 - **PostgreSQL** for persistent database storage
+  
 [Check out the project here!](https://github.com/dbronshteyn/Wordsworth)
 
 ### PantryPal (January 2024)
 A JavaFX application that helps users create custom recipes based on available ingredients using OpenAI APIs. It integrates:
 - **Whisper** for voice recognition
 - **ChatGPT** to generate personalized recipes
-- **DALL-E** to create unique images for each recipe  
+- **DALL-E** to create unique images for each recipe
+  
 [Check out the project here!](https://github.com/dbronshteyn/PantryPal)
 
 ## 💼 Experience 
