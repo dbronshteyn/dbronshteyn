@@ -13,12 +13,17 @@ My hobbies include playing ice hockey, playing piano, hiking, and cooking.
 ## 🛠️ Skills 
 
 - **Languages**: Java, Python, C++, C, SQL, MATLAB, Bash, x86 Assembly, SystemVerilog
-- **Frameworks**: Spring, JUnit, Maven
-- **Tools**: Git, SSH, GNU Debugger, Jupyter Notebooks, Makefile, Vim, LaTeX
-- **Technologies**: REST APIs, Postman, CI/CD, Docker, NoSQL
+- **Technologies**: Spring, REST, Docker, JUnit, CI/CD,‬‭ PostgreSQL, MongoDB
+- **Tools**: Git, Maven, Postman, SSH, GNU Debugger, Jupyter‬‭ Notebooks, Vim, LaTeX
 - **Libraries**: NumPy, pandas, TensorFlow, Keras, scikit-learn
 
 ## 🚀 Projects 
+
+### Wordsworth (October 2024)
+The Wordsworth API allows users to create, manage, and review flashcard sets, and supports CRUD operations on individual flashcards. I am currently working on the frontend using React, and Wordsworth will soon be a full-stack application. The backend is built using:
+- **Spring Boot** for building Java-based web applications
+- **PostgreSQL** for persistent database storage
+[Check out the project here!](https://github.com/dbronshteyn/Wordsworth)
 
 ### PantryPal (January 2024)
 A JavaFX application that helps users create custom recipes based on available ingredients using OpenAI APIs. It integrates:
@@ -40,6 +45,8 @@ A JavaFX application that helps users create custom recipes based on available i
 
 ## 🎓 Certifications
 
-- **Deep Learning Specialization**, DeepLearning.AI (Sep 2023)
+- **Deep Learning Specialization**, DeepLearning.AI (Sep 2023)  
+  [Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/MSZULYSPJDSV)
 
-- **Machine Learning Specialization**, DeepLearning.AI & Stanford University (July 2023)
+- **Machine Learning Specialization**, DeepLearning.AI & Stanford University (July 2023)  
+  [Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/M66VNMT5FA28)
