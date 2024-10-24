@@ -23,6 +23,7 @@ My hobbies include playing ice hockey, playing piano, hiking, and cooking.
 The Wordsworth API allows users to create, manage, and review flashcard sets, and supports CRUD operations on individual flashcards. I am currently working on the frontend using React, and Wordsworth will soon be a full-stack application. The backend is built using:
 - **Spring Boot** for building Java-based web applications
 - **PostgreSQL** for persistent database storage
+- **React** for the frontend
   
 [Check out the project here!](https://github.com/dbronshteyn/Wordsworth)
 
