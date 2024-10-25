@@ -12,7 +12,7 @@ My hobbies include playing ice hockey, playing piano, hiking, and cooking.
 
 ## 🛠️ Skills 
 
-- **Languages**: Java, Python, C++, C, SQL, MATLAB, Bash, x86 Assembly, SystemVerilog
+- **Languages**: Java, Python, C++, C, SQL, JavaScript, MATLAB, Bash, x86 Assembly, SystemVerilog
 - **Technologies**: Spring, REST, Docker, JUnit, CI/CD,‬‭ PostgreSQL, MongoDB
 - **Tools**: Git, Maven, Postman, SSH, GNU Debugger, Jupyter‬‭ Notebooks, Vim, LaTeX
 - **Libraries**: NumPy, pandas, TensorFlow, Keras, scikit-learn
@@ -20,7 +20,7 @@ My hobbies include playing ice hockey, playing piano, hiking, and cooking.
 ## 🚀 Projects 
 
 ### Wordsworth (October 2024)
-The Wordsworth API allows users to create, manage, and review flashcard sets, and supports CRUD operations on individual flashcards. I am currently working on the frontend using React, and Wordsworth will soon be a full-stack application. The backend is built using:
+Wordsworth allows users to create, manage, and review flashcard sets, and supports CRUD operations on individual flashcards. Additionally, the application provides a "Grok" mode to help users master flashcards and other studying essentials. Wordsworth is built with:
 - **Spring Boot** for building Java-based web applications
 - **PostgreSQL** for persistent database storage
 - **React** for the frontend
