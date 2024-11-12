@@ -20,7 +20,7 @@ My hobbies include playing ice hockey, playing piano, hiking, and cooking.
 ## 🚀 Projects 
 
 ### Wordsworth (October 2024)
-Wordsworth allows users to create, manage, and review flashcard sets, and supports CRUD operations on individual flashcards. Additionally, the application provides a "Grok" mode to help users master flashcards and other studying essentials. Wordsworth is built with:
+Wordsworth allows users to create, manage, and review flashcard sets, and supports CRUD operations on individual flashcards. Additionally, the application provides a "Grok" mode to help users master flashcards, "Generate" to create flashcards from a user-provided prompt, and other studying essentials. Wordsworth is built with:
 - **Spring Boot** for building Java-based web applications
 - **PostgreSQL** for persistent database storage
 - **React** for the frontend
