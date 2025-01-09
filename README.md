@@ -43,7 +43,7 @@ A JavaFX application that helps users create custom recipes based on available i
 - **Software Developer Intern, Scripps Institution of Oceanography** (July 2023 - Sep 2023)  
   Developed software and hardware solutions to model ocean temperatures.
 
-- **Java and Python Tutor, Tutor.com** (Nov 2022 - Present)  
+- **Java, Python, and C++ Tutor, Tutor.com** (Nov 2022 - Present)  
   Support students in understanding key Java and Python concepts.
 
 ## 🎓 Certifications
