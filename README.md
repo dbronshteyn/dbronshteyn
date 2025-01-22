@@ -2,7 +2,7 @@
 # 👋 Hi there!  
 
 **B.S. Computer Science, Jacobs School of Engineering, UC San Diego**  
-Email: daniel.bronshteyn81@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniel-bronshteyn-78862212a/)
+Email: daniel.bronshteyn81@gmail.com | [LinkedIn](https://www.linkedin.com/in/daniel-bronshteyn/)
 
 ## 👨‍💻 About Me 
 
