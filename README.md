@@ -6,7 +6,7 @@ Email: daniel.bronshteyn81@gmail.com | [LinkedIn](https://www.linkedin.com/in/da
 
 ## 👨‍💻 About Me 
 
-Hello! I'm Daniel Bronshteyn, a Computer Science student at UC San Diego. I have a strong interest in software engineering and backend development, with hands-on experience in Java, Python, and C++, and a passion to always learn! I enjoy tackling challenging projects that allow me to leverage both technical knowledge and creativity.
+Hello! I'm Daniel Bronshteyn, a recent Computer Science graduate from UC San Diego. I have a strong interest in software engineering and backend development, with hands-on experience in Java, Python, and C++, and a passion to always learn! I enjoy tackling challenging projects that allow me to leverage both technical knowledge and creativity.
 
 My hobbies include playing ice hockey, playing piano, hiking, and cooking.
 
@@ -37,18 +37,18 @@ A JavaFX application that helps users create custom recipes based on available i
 
 ## 💼 Experience 
 
-- **UCSD Computer Science Tutor** (Aug 2024 - Sep 2024)  
+- **Java, Python, and C++ Tutor, Tutor.com** (November 2022 - Present)  
+  Support students in understanding key Java, Python, and C++ concepts.
+
+- **UCSD Computer Science Tutor - Computer Architecture** (August 2024 - September 2024)  
   Helped students master modern CPU features, including caching and multi-threading, with a focus on software performance optimization in C++.
   
-- **Software Developer Intern, Scripps Institution of Oceanography** (July 2023 - Sep 2023)  
+- **Software Developer Intern, Scripps Institution of Oceanography** (July 2023 - September 2023)  
   Developed software and hardware solutions to model ocean temperatures.
-
-- **Java, Python, and C++ Tutor, Tutor.com** (Nov 2022 - Present)  
-  Support students in understanding key Java and Python concepts.
 
 ## 🎓 Certifications
 
-- **Deep Learning Specialization**, DeepLearning.AI (Sep 2023)  
+- **Deep Learning Specialization**, DeepLearning.AI (September 2023)  
   [Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/MSZULYSPJDSV)
 
 - **Machine Learning Specialization**, DeepLearning.AI & Stanford University (July 2023)  
