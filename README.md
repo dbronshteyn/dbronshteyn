@@ -48,6 +48,9 @@ A JavaFX application that helps users create custom recipes based on available i
 
 ## 🎓 Certifications
 
+- **AWS Certified Developer – Associate**, Amazon Web Services (February 2025)  
+  [Certification](https://www.credly.com/badges/546d9d9e-e129-4b94-ac51-b2e7248fb03c/public_url)
+
 - **Deep Learning Specialization**, DeepLearning.AI (September 2023)  
   [Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/MSZULYSPJDSV)
 
