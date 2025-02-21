@@ -6,9 +6,11 @@ Email: daniel.bronshteyn81@gmail.com | [LinkedIn](https://www.linkedin.com/in/da
 
 ## 👨‍💻 About Me 
 
-Hello! I'm Daniel Bronshteyn, a recent Computer Science graduate from UC San Diego. I have a strong interest in software engineering and backend development, with hands-on experience in Java, Python, and C++, and a passion to always learn! I enjoy tackling challenging projects that allow me to leverage both technical knowledge and creativity.
+Hello! I'm Daniel Bronshteyn, a recent Computer Science graduate from UC San Diego. I have a strong interest in software engineering and backend development, with hands-on experience in Java, Python, and C++. 
 
-My hobbies include playing ice hockey, playing piano, hiking, and cooking.
+As an AWS Certified Developer Associate, I enjoy solving problems, collaborating with others, and continuously expanding my knowledge.
+
+My hobbies include ice hockey, piano, traveling, and cooking.
 
 ## 🛠️ Skills 
 
