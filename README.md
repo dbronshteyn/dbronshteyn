@@ -15,8 +15,8 @@ My hobbies include ice hockey, piano, traveling, and cooking.
 ## 🛠️ Skills 
 
 - **Languages**: Java, Python, C++, C, SQL, JavaScript, MATLAB, Bash, x86 Assembly, SystemVerilog
-- **Technologies**: Spring, REST, Docker, JUnit, CI/CD,‬‭ PostgreSQL, MongoDB
-- **Tools**: Git, Maven, Postman, SSH, GNU Debugger, Jupyter‬‭ Notebooks, Vim, LaTeX
+- **Technologies**: Spring, REST, Docker, Kubernetes, JUnit, CI/CD,‬‭ PostgreSQL, MongoDB
+- **Tools**: Git, Maven, Postman, SSH, kubectl, GNU Debugger, Jupyter‬‭ Notebooks, Vim, LaTeX
 - **Libraries**: NumPy, pandas, TensorFlow, Keras, scikit-learn
 
 ## 🚀 Projects 
@@ -49,6 +49,9 @@ A JavaFX application that helps users create custom recipes based on available i
   Developed software and hardware solutions to model ocean temperatures.
 
 ## 🎓 Certifications
+
+- **Certified Kubernetes Application Developer**, The Linux Foundation (March 2025)  
+  [Certification](https://www.credly.com/badges/ddc8ac60-04e2-4c05-b717-c7ad35f9fe89/public_url)
 
 - **AWS Certified Developer – Associate**, Amazon Web Services (February 2025)  
   [Certification](https://www.credly.com/badges/546d9d9e-e129-4b94-ac51-b2e7248fb03c/public_url)
